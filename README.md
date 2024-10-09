@@ -26,6 +26,14 @@ Luego, aprenderemos como hacer un deploy en un servidor online.
 
 finalmente, haremos el frontend de la aplicación que consumirá nuestro backend.
 
+#QUE ESTAS ROBANDO CODIGO!!!! 
+
+parate, primero que nada, copilot me adelanto banda de codigo, asique lo robo el...
+Ahora en serio: 
+- Estos js son la base del trabajo final, que sera contextualmente distinto, aunque funcionalmente igual
+- El proyecto final contara con un frontend y backend. Si te llega a ser util, contamelo que me pone re feliz ser util a otros
+- >su texto aqui<
+
 
 # package usado: 
 npm install uuid inquirer
